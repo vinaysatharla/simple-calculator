@@ -44,6 +44,9 @@ button{
     color:aliceblue;
     cursor:pointer;
     }
+button:hover{
+    background-color: #3a4452;
+}
 .eqlbtn{
     background-color: rgb(190, 140, 46);
 }
